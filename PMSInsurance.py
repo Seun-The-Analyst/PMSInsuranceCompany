@@ -158,7 +158,7 @@ for product in manager.products:
 
 
 
-# Payment Usage for 5 customers:
+# Payment Usage for 5 customers (Policy Holder Demonstration):
 payments = [
     Payment("Jane Smith", "INS123456", 1200.50, 1200.50, "2024-01-10", "Paid"),
     Payment("John Doe", "INS654321", 800.00, 0.00, None, "Unpaid"),
